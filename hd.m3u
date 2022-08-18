@@ -1,10 +1,10 @@
 #EXTM3U.
 #EXTINF: -1 ,UNITEL LA PAZ
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdfDYh02bWtQOAMRLr1-QydnXcRBA2rflKylBHpsmdEt)/dm/3/x7vsfua/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUFsV5a4EZkWgywHFol38lv_z8LGvc-hSfNrDsTh6TZu)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
 #EXTINF: -1 ,UNITEL SANTA CRUZ
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcjUmSjw-qjFIIRrbxGdc1z0_JZsjIGMqN224D5_3t2t)/dm/3/x7vsezg/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcuPxJQRUQpUc33I-kvQabOz7EtoRXdsotLO_zEY_nMM)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 #EXTINF: -1 ,UNITEL COCHABAMBA
-https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUHUgRZqzH1VhJ5fOuvbkwIdYpf3wxON15SywgDv2jUZw)/dm/3/x7y922d/d/live-0.m3u8
+https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUGPl7tkvQ6J0VTt-zVPifrRKa62GXv23szFzn_MIkHIF)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
 #EXTINF: -1 ,RED UNO LA PAZ
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkxMbKzGLDTgri1QW-mAk4tm1hnVHCkPSMDsde2RkOcV)/dm/3/x828xvr/d/live-0.m3u8
 #EXTINF: -1 ,RED UNO SANTA CRUZ
