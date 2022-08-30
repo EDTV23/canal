@@ -1,6 +1,6 @@
 #EXTM3U.
 #EXTINF: -1 ,UNITEL LA PAZ
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUFsV5a4EZkWgywHFol38lv_z8LGvc-hSfNrDsTh6TZu)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x7vsfua.m3u8?sec=e_V6fUA6Tx3nswvM0lzWuUG4gH7w1OvZj03F3hbtblCMsiS3q69WgBY1VKQZDcnVZ41MRHRRE7GzCgMqEUtuVg&dmTs=930157&dmV1st=F898BD88BA6CFB1AFEDDE597C34ACE90
 
 
 
@@ -12,7 +12,7 @@ https://www.dailymotion.com/cdn/live/video/x7wzxiw.m3u8?sec=r7ly5OhLV1OB30jgQe15
 
 
 #EXTINF: -1 ,UNITEL COCHABAMBA
-https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUGPl7tkvQ6J0VTt-zVPifrRKa62GXv23szFzn_MIkHIF)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x7y922d.m3u8?sec=J9r-gMuaRvripcU6_XQokIEDvV6F_O-GEU2wtVERhch54WFFwhwe156OcHewuhWAa8PhnWmkmYnGSDMJff8xXw&dmTs=930157&dmV1st=F898BD88BA6CFB1AFEDDE597C34ACE90
 
 
 
@@ -62,4 +62,8 @@ https://d2byzrnrdb259r.cloudfront.net:443/hls/live_480p30.m3u8
 #EXTINF: -1 ,RTP TV
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1914748037.m3u8
 
-#EXTINF: -1 , 
+#EXTINF: -1 , UNIVALLE TV
+https://master.tucableip.com/univalletv/playlist.m3u8
+
+
+
