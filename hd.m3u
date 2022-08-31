@@ -68,5 +68,10 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF: -1  , MEGAVISIÓN HD
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
-#EXTINF: -1  , 
+#EXTINF: -1  , TIGO SPORTS 
+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=tsKTh6MFsrXNWFqRPF0tQA&expires=1661920659&ip=181.115.167.156
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=s8sddM3EVFOsWOSJol5dcA&expires=1661920827&ip=181.115.167.156
+
+
 
