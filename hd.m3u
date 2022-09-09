@@ -3,6 +3,7 @@ Ni#EXTM3U.
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQtT1p9MoThKBTW57Gp3gAfCIp3soZohgeaV2vP51GEQ)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYZoEw8Bmq423rnuX50vqfjTjB7yqo8ZutN-49XsQfLP)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcUwxw4I6Aj1ZJPw_Qf09N1SzXE1sPC9Ke2Sf8W68MZd)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zaq84Bq9PkudHjllVzbJeyMYxCVNOJ5kEgB7XMfGYOzh)/dm/3/x7vsfua/d/live-3.m3u8#cell=lsv4
 
 #EXTINF: -1 ,UNITEL SANTA CRUZ
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT-t_54RUhbWxdotb6ptBPvJIShrur49QKmgCFcNv3Q-)/dm/3/x7vsezg/d/live-3.m3u8
@@ -11,23 +12,28 @@ https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Za75X7UcTuTITTBOEt
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4j8rJK_jBDNdW8-UM5M8P--qfCLKQS6LGs8szhCnR4P)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb7yQLOAN4mDOtcaINibOw4nNp5jjBH2xEETTY14lKg-)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_R3JNZ3Lvlqp0McYZiT02VXv0gWKI1CTUUtOSN8SWuw)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lsv4
+https://stream-02.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXYdodJmyE-OENw-bCKbmDJTsJUnHs4yadnDolw26nLs)/dm/3/x7vsezg/d/live-3.m3u8#cell=lcore
 
 #EXTINF: -1 ,UNITEL COCHABAMBA
 https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNw1cyFRORyv0Zq2n3QFhg2TPJwARxqrLNvLfuQLE9_d)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
 https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUAg_QRu-HduKUoYGHRcE82eiPBSLSvixyr9nRYeqvI1o)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
 https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUBPKOpV3fKnZ8szIIu8EIGJuxCCoAxanSobEDft9lbR5)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUH39jb1bqqoihBPZrLi3RRCQEelsbQmtwDF7M2JB9SYW)/dm/3/x7y922d/d/live-3.m3u8#cell=lsv4
 
 #EXTINF: -1 ,RED UNO LA PAZ
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtJER-1OEsg_NmSRK2_DXXmynSiGFZ5vghb9huuDL4pE)/dm/3/x828xvr/d/live-2.m3u8#cell=lnyc
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLknQDYH1Z9o_EK2Oc6nhV8tQn8XVOXIW1sD1fN1iRY0t)/dm/3/x828xvr/d/live-2.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkP97BzPLlijF1oHBERVhJj-n8K8I-NbWWmdsan55ZOw)/dm/3/x828xvr/d/live-2.m3u8#cell=lsv4
 
 #EXTINF: -1 ,RED UNO SANTA CRUZ
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLh9osrspkKCVw6QY279gJVtUUXdispkFqGz8FULcw-Cf)/dm/3/x825whp/d/live-2.m3u8#cell=lnyc
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLobAdARAQVFCENDE4BeaBItKQq5SJhn15J2AH1row1Fd)/dm/3/x825whp/d/live-2.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsglgCg2ZQOPAo_1IkZqxoMqTP5_W7vv50KqUvOqcVqn)/dm/3/x825whp/d/live-2.m3u8#cell=lsv4
 
 #EXTINF: -1 ,RED UNO COCHABAMBA
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmU3F6wpVlY_jRD1SWZ-1tWZ_LGDsQ19R8fxNPzNOWug)/dm/3/x827j2y/d/live-2.m3u8#cell=lnyc
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnwPBvEj5TSNrnw1rXVZlmSoxu0ado-QWRFBpZj97-En)/dm/3/x827j2y/d/live-2.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLnE1CbCX4-v6eFrscDcq8HCQoUvumBjvPFR9g7jwQJTV)/dm/3/x827j2y/d/live-2.m3u8#cell=lsv4
 
 #EXTINF: -1 ,ATB TV
 https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOocFv3XcWsdzItIrE0RwYcSfyESryzlaHI1Vq8dGT9oZ)/dm/3/x84eirw/d/live-3.m3u8#cell=lnyc
