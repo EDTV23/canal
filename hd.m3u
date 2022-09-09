@@ -1,4 +1,4 @@
-Ni#EXTM3U.
+#EXTM3U.
 #EXTINF: -1 ,UNITEL LA PAZ
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQtT1p9MoThKBTW57Gp3gAfCIp3soZohgeaV2vP51GEQ)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYZoEw8Bmq423rnuX50vqfjTjB7yqo8ZutN-49XsQfLP)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
@@ -6,13 +6,8 @@ https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcUwxw4I6Aj1ZJPw_Q
 https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zaq84Bq9PkudHjllVzbJeyMYxCVNOJ5kEgB7XMfGYOzh)/dm/3/x7vsfua/d/live-3.m3u8#cell=lsv4
 
 #EXTINF: -1 ,UNITEL SANTA CRUZ
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZT-t_54RUhbWxdotb6ptBPvJIShrur49QKmgCFcNv3Q-)/dm/3/x7vsezg/d/live-3.m3u8
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl99wfxrbV_-Iq00PAQtrGEKvp8vkueNicLOKYtjEwHOO)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Za75X7UcTuTITTBOEtnp2SA5Ue_NEUc1rmXqX_AZmJxy)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4j8rJK_jBDNdW8-UM5M8P--qfCLKQS6LGs8szhCnR4P)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zb7yQLOAN4mDOtcaINibOw4nNp5jjBH2xEETTY14lKg-)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
-https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_R3JNZ3Lvlqp0McYZiT02VXv0gWKI1CTUUtOSN8SWuw)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lsv4
-https://stream-02.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXYdodJmyE-OENw-bCKbmDJTsJUnHs4yadnDolw26nLs)/dm/3/x7vsezg/d/live-3.m3u8#cell=lcore
+https://stream-02.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_uQTDi6nwG_CZj8GHBomW4MpOO7dAq09ptcJkyyWhpZ)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lsv4
+https://stream-04.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_uQTDi6nwG_CZj8GHBomW4MpOO7dAq09ptcJkyyWhpZ)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lsv4
 
 #EXTINF: -1 ,UNITEL COCHABAMBA
 https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNw1cyFRORyv0Zq2n3QFhg2TPJwARxqrLNvLfuQLE9_d)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
@@ -63,4 +58,4 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=bUl1yyFHq1nk
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=66UyuNz7gOun7xfPKco7ag&expires=1662066579&ip=181.115.167.156
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=AZj-JYqGYdZpMlYAbYEFqA&expires=1662092108&ip=181.115.167.156
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=jTdN_eFrMew-xPOx7dc_Bw&expires=1662096780&ip=181.115.167.156
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=hvhTEOWdaE4wKw_fwYSGhg&expires=1662607608&ip=181.115.167.156
+
