@@ -1,25 +1,24 @@
 #EXTM3U.
 #EXTINF: -1 ,UNITEL LA PAZ
-https://stream-02.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcS6dMBRhNq-rcZLUtRWXbSKbR9MIRKkEZ9eyhSgqs-5)/dm/3/x7vsfua/d/live-3.m3u8#cell=lsv4
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSVUTX2S-f6mBd1nsRBngQSTeZGAH8uwWYCiWbYqS3XL)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,UNITEL SANTA CRUZ
-https://stream-01.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7nzpTISwwCKX1uXvLc_re_2pae-hJqEpd8Bhw0JVmJh)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lsv4
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUMmvn_24nsPURYpZOVz_l2myb4HtQwQK1t006lskcVo)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,UNITEL COCHABAMBA
-https://stream-04.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJPFB3sP_GyVDOBFCpLDosi8FSx7UyISUDuHsB0epISt)/dm/3/x7y922d/d/live-3.m3u8#cell=lcore
+https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUPIr2n0_ZJb0f7ZZIi7jQwlR6794-M5_o5FrOnERjmJo)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,RED UNO LA PAZ
-https://stream-01.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiioPZwWEmALgrugkfWOvlAA44M55q2YIoLr9t3Xqhms)/dm/3/x828xvr/d/live-3.m3u8#cell=lcore
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLszojMuTQFeHDp4zf11v78mrjWYXfKukCL0Y2_C7I5Ow)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,RED UNO SANTA CRUZ
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLseFuuAUUG7WRXwAebgoGDrw-Jc5xzDqLg2N1qAh2_73)/dm/3/x825whp/d/live-3.m3u8#cell=lsv4
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLssYCf8Y5a9ONKZQqT92sUf-FXRv-5dCtusLJpfnYaFD)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,RED UNO COCHABAMBA
-https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpvz0UweSdh-8tSkIJOzM4p2f8f2fXk3V1Qa-jrHj3Qd)/dm/3/x827j2y/d/live-2.m3u8#cell=lsv4
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLssYCf8Y5a9ONKZQqT92sUf-FXRv-5dCtusLJpfnYaFD)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,ATB TV
-https://stream-03.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOiEkmutEEXtDGnDub_PcHZjXC4dANQ0IFjznskZ3v1Pa)/dm/3/x84eirw/d/live-3.m3u8#cell=lsv4
-
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vy09nEayZ-U8sWdahDGv4xX0mzQbGAbZImv09rWR-qfF)/dm/3/x89sfvo/s/live-3.m3u8#cell=lnyc
 #EXTINF: -1 ,PAT
 https://master.tucableip.com:443/pat/tracks-v1a1/mono.m3u8
 
@@ -39,8 +38,7 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
 #EXTINF: -1  , TIGO SPORTS 
-https://live.telelatinohd.com:8080/MTgxLjExNS4xNjcuMTU2/201_.m3u8?token=ClHoDPHK1ryy7CvZ7LsnJg&expires=1663366723
-
+https://live.telelatinohd.com:8080/MTgxLjExNS4xNjcuMjAz/201_.m3u8?token=Uddr7jYMgNWFGCLTa4x-rQ&expires=1664226134
 
 
 
