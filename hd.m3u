@@ -1,43 +1,58 @@
 #EXTM3U.
 #EXTINF: -1 ,UNITEL LA PAZ
+tvg-logo=”URL del LOGO”
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSVUTX2S-f6mBd1nsRBngQSTeZGAH8uwWYCiWbYqS3XL)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,UNITEL SANTA CRUZ
+tvg-logo=”URL del LOGO”
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyg0FVDkeMTSiDuRAat1JoyFJ3e8FkCliBX4WXKKCnQb)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,UNITEL COCHABAMBA
+tvg-logo=”URL del LOGO”
 https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUPIr2n0_ZJb0f7ZZIi7jQwlR6794-M5_o5FrOnERjmJo)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,RED UNO LA PAZ
+tvg-logo=”URL del LOGO”
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLszojMuTQFeHDp4zf11v78mrjWYXfKukCL0Y2_C7I5Ow)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,RED UNO SANTA CRUZ
+tvg-logo=”URL del LOGO”
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLssYCf8Y5a9ONKZQqT92sUf-FXRv-5dCtusLJpfnYaFD)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,RED UNO COCHABAMBA
+tvg-logo=”URL del LOGO”
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLssYCf8Y5a9ONKZQqT92sUf-FXRv-5dCtusLJpfnYaFD)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,ATB TV
+tvg-logo=”URL del LOGO”
 https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vy09nEayZ-U8sWdahDGv4xX0mzQbGAbZImv09rWR-qfF)/dm/3/x89sfvo/s/live-3.m3u8#cell=lnyc
+
 #EXTINF: -1 ,PAT
+tvg-logo=”URL del LOGO”
 https://master.tucableip.com:443/pat/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 ,CADENA A
+tvg-logo=”URL del LOGO”
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/chunklist_w632525906.m3u8
 
 #EXTINF: -1 ,BOLIVISION
+tvg-logo=”URL del LOGO”
 https://d2byzrnrdb259r.cloudfront.net:443/hls/live_480p30.m3u8
 
 #EXTINF: -1 ,RTP TV
+tvg-logo=”URL del LOGO”
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1914748037.m3u8
 
 #EXTINF: -1 , UNIVALLE TV
+tvg-logo=”URL del LOGO”
 https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF: -1  , MEGAVISIÓN HD
+tvg-logo=”URL del LOGO”
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
 #EXTINF: -1  , TIGO SPORTS 
+tvg-logo=”URL del LOGO”
 https://live.telelatinohd.com:8080/MTgxLjE4OC4xNjQuOTY=/201_.m3u8?token=y0WH7P4cmCuxxkyHiwoqHg&expires=1664431231
 
 
