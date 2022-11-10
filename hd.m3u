@@ -1,6 +1,5 @@
 #EXTM3U.
-#EXTINF:-1 ,UNITEL LA PAZ
-tvg-logo=”https://s1.dmcdn.net/v/SQJeo1YQMYDjfOmLT/x1080”
+#EXTINF:-1 ,tvg-logo=”https://s1.dmcdn.net/v/SQJeo1YQMYDjfOmLT/x1080” UNITEL LA PAZ
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSVUTX2S-f6mBd1nsRBngQSTeZGAH8uwWYCiWbYqS3XL)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
 
 #EXTINF: -1 ,UNITEL SANTA CRUZ
