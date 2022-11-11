@@ -39,10 +39,7 @@ https://dai.ly/x825whp
 https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdnxakIeU2SXnwmo6K43iUgT8wJufcemZuFI4QNtfq8U6a0_SskV3-ZCfciXdd90daw&dmTs=930157&dmV1st=F898BD88BA6CFB1AFEDDE597C34ACE90
 
 #EXTINF: -1 ,RED UNO COCHABAMBA
-
 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365",RED UNO COCHABAMBA
-
-https://dai.ly/x827j2y
 https://www.dailymotion.com/cdn/live/video/x827j2y.m3u8?sec=nopAhwjqT3cadCdRrNJP-Tfgt-aUUGKNd3IcxvGSquDHcjmbpEBJ6KDaTFOFH-9XXUJQQCrxZWfPoM8ux7c55A&dmTs=930157&dmV1st=F898BD88BA6CFB1AFEDDE597C34ACE90
 
 #EXTINF: -1 ,ATB TV
@@ -91,14 +88,14 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF: -1  , MEGAVISIÓN HD
 
 tvg-id="MEGAVISIONHD" tvg-name="MEGAVISION HD"
-tvg-logo=”https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/Megavisi%C3%B3n-Bolivia-en-vivo-Online.png?fit=1920%2C1080&ssl=1", MEGAVISION HD
+tvg-logo=”https://cdn-radiotime-logos.tunein.com/s103621d.png", MEGAVISION HD
 
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
 #EXTINF: -1  , TIGO SPORTS 
 
 tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS"
-tvg-logo=”https://play-lh.googleusercontent.com/g9v96DkMl96R7IJiWnCu2m48GQyc3xipuHc1UtYrzsAeHSt7wweTw9yYeYypHTG6Bk4Z", TIGO SPORTS
+tvg-logo=”https://www.newslinereport.com/online/nota_tigo-llegan-a-un-millon-de-hogares-en-bolivia.jpg", TIGO SPORTS
 
 https://live.telelatinohd.com:8080/MTgxLjE4OC4xNjQuOTY=/201_.m3u8?token=y0WH7P4cmCuxxkyHiwoqHg&expires=1664431231
 
