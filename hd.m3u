@@ -30,7 +30,6 @@ tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&c
 https://dai.ly/x825whp
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLo9YT9EzLAFvqSK_s1uNgynoCAv0175g1ToAc2clArpb)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
 
-
 #EXTINF: -1 ,RED UNO COCHABAMBA
 
 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365",RED UNO 
@@ -83,7 +82,6 @@ https://5f2c1b0d880e5.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w785
 tvg-logo="https://tvu.umsa.bo/documents/780216/0/fondotvu.jpg/e8474744-91a7-4bb8-de6c-b169a89ef78a?t=1630525054611",TV UNIVERSITARIA 
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
-
 #EXTINF: -1  , TV UNIVERSITARIA SUCRE
 
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiM0IMSnaCv8M5pzChq44TInPDrF6-Ul2Djg&usqp=CAU", TELEVISION UNIVERSITARIA SUCRE
@@ -99,7 +97,30 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1820173922.m3u8
 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png", ERBOL BOLIVIA
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w749940929.m3u8
 
+#EXTINF: -1  , ATESUR SUCRE
 
+tvg-logo="https://i0.wp.com/atesurplus.com/wp-content/uploads/2021/07/Comp-2_0000inicio.png?fit=1768%2C568&ssl=1", ATESUR SUCRE 
+https://video1.getstreamhosting.com:1936/8026/8026/chunklist_w790970310.m3u8
+
+#EXTINF: -1  , TU TV CHAPACA
+
+tvg-logo="https://tutvchapaca.com/wp-content/uploads/2022/01/banner3.jpg", TU TV CHAPACA 
+https://stmv.panel.grupolimalive.com:443/tarija/tarija/chunklist_w1193941661.m3u8
+
+#EXTINF: -1  , ITV SUCRE 
+
+tvg-logo="https://deredes.tv/wp-content/uploads/2022/09/Estoy-en-vivo-en-una-entrevista-en-ITV-Digital-Sucre.jpg", ITV SUCRE
+https://solo.disfrutaenlared.com:1936/itvdigital/itvdigital/chunklist_w947249050.m3u8
+
+#EXTINF: -1  , SEO TV
+
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF2TfZm8rLsX6Pu5G_FmJ4SAcbNQ1aAugO9w&usqp=CAU", SEO TV
+https://seo.tv.bo/tv/SEOX.m3u8
+
+#EXTINF: -1  , MARVISION
+
+tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png", MARVISION 
+https://stmv.panel.grupolimalive.com:443/marvision/marvision/chunklist_w865106232.m3u8
 
 
 
