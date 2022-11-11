@@ -10,7 +10,8 @@ https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRgqEirtO_Qzo3MSjs
 tvg-logo="https://s1.dmcdn.net/v/SY31u1ZPjh994ejEi/x1080",UNITEL SANTA CRUZ 
 https://dai.ly/x7vsezg
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTSK99kzHsu1N1sjaZTvay6SlsfdMFGsGmSgTRxNhxtj)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
-
+https://dai.ly/x7wzxiw
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8zumPgbIvuLFwIVuNCet4eOVT986aenTq94moQX_57n)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
 #EXTINF: -1 ,UNITEL COCHABAMBA
 
 tvg-logo="https://s2.dmcdn.net/v/Sg52r1YQMYVFzqmIW/x720",COCHABAMBA 
@@ -67,17 +68,15 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1914748037.m3u8
 tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/06/282564259_10158977843387405_6403480060241523290_n.png", UNIVALLE TV
 https://master.tucableip.com/univalletv/playlist.m3u8
 
-#EXTINF: -1  , MEGAVISIÓN HD
+#EXTINF: -1  ,F10 TV
 
-tvg-logo=”https://cdn-radiotime-logos.tunein.com/s103621d.png", MEGAVISION HD
-https://livefocamundo.com:8081/megavisiontv/index.m3u8
+tvg-logo=”https://f10.tv.bo/images/vivo.png",F10 TV
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
-#EXTINF: -1  , TIGO SPORTS 
+#EXTINF: -1  , BOLIVIA TV 
 
-tvg-id="TIGO SPORTS" tvg-name="TIGO SPORTS"
-tvg-logo=”https://www.newslinereport.com/online/nota_tigo-llegan-a-un-millon-de-hogares-en-bolivia.jpg", TIGO SPORTS
-
-https://live.telelatinohd.com:8080/MTgxLjE4OC4xNjQuOTY=/201_.m3u8?token=y0WH7P4cmCuxxkyHiwoqHg&expires=1664431231
+tvg-logo=”https://www.newslinereport.com/online/nota_tigo-llegan-a-un-millon-de-hogares-en-bolivia.jpg", BOLIVIA TV 
+https://5f2c1b0d880e5.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w785660703.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMiA2OjA2OjU4IFBNJmhhc2hfdmFsdWU9ZGloaVU5SmdIV1FmSHZFQjAvTGl4QT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
 
 
 
