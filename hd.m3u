@@ -1,125 +1,80 @@
 #EXTM3U.
 #EXTINF:-1 ,UNITEL LA PAZ
-
 tvg-logo="https://s1.dmcdn.net/v/SQJeo1YQMYDjfOmLT/x1080",UNITEL LA PAZ
 https://dai.ly/x7vsfua
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRgqEirtO_Qzo3MSjsulNACo61KXlIzJjJMq7Lw8DeRl)/dm/3/x7vsfua/d/live-3.m3u8#cell=lnyc
-
 #EXTINF:-1 ,UNITEL SANTA CRUZ
-
 tvg-logo="https://s1.dmcdn.net/v/SY31u1ZPjh994ejEi/x1080",UNITEL SANTA CRUZ 
 https://dai.ly/x7vsezg
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTSK99kzHsu1N1sjaZTvay6SlsfdMFGsGmSgTRxNhxtj)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 https://dai.ly/x7wzxiw
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8zumPgbIvuLFwIVuNCet4eOVT986aenTq94moQX_57n)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
-
 #EXTINF: -1 ,UNITEL COCHABAMBA
-
 tvg-logo="https://s2.dmcdn.net/v/Sg52r1YQMYVFzqmIW/x720",COCHABAMBA 
 https://dai.ly/x7y922d
 https://stream-02.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUJw31FL8H5wyoYEsTU4ArQGXaWkoSR2LgtDdS0AHQWBN)/dm/3/x7y922d/d/live-3.m3u8#cell=lnyc
-
 #EXTINF: -1 ,RED UNO LA PAZ
-
 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365",RED UNO LA PAZ 
 https://dai.ly/x828xvr
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlITx8Qn65gB97mR5stje-cDBXUBil2-oq8oJHt3BXjG)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
-
 #EXTINF: -1 ,RED UNO SANTA CRUZ
-
 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365",RED UNO SANTA CRUZ
 https://dai.ly/x825whp
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLo9YT9EzLAFvqSK_s1uNgynoCAv0175g1ToAc2clArpb)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
-
 #EXTINF: -1 ,RED UNO COCHABAMBA
-
 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365",RED UNO 
 https://dai.ly/x827j2y
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjn4-qdFsc3pi_9sDXn0OJYs2uzTD7TLSF30ZU2iR2kM)/dm/3/x827j2y/d/live-2.m3u8#cell=lnyc
-
 #EXTINF: -1 ,ATB TV
-
 tvg-logo="https://www.atb.com.bo/fotos/1751010135.JPG",ATB TV
 https://dai.ly/x84eirw
 https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOj53RllU9mbl5Xn_ySvssfPdzeynfv9rGof0S7AB9PDB)/dm/3/x84eirw/d/live-3.m3u8#cell=lnyc
-
 #EXTINF: -1 ,PAT
-
 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png",PAT
 https://master.tucableip.com:443/pat/tracks-v1a1/mono.m3u8
-
 #EXTINF: -1 ,CADENA A
-
 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2022/03/LogoBaseA0300-e1646889594328.png",CADENA A
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/chunklist_w632525906.m3u8
-
 #EXTINF: -1 ,BOLIVISION
-
 tvg-logo="https://www.redbolivision.tv.bo/wp-content/uploads/2021/01/Sin-titulo-1.png",BOLIVISION
 https://d2byzrnrdb259r.cloudfront.net:443/hls/live_480p30.m3u8
-
 #EXTINF: -1 ,RTP TV
-
 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/RTP-Bolivia-Logo.jpg",RTP TV
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1914748037.m3u8
-
 #EXTINF: -1 , UNIVALLE TV
-
 tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/06/282564259_10158977843387405_6403480060241523290_n.png", UNIVALLE TV
 https://master.tucableip.com/univalletv/playlist.m3u8
-
 #EXTINF: -1  ,F10 TV
-
 tvg-logo="https://f10.tv.bo/images/vivo.png",F10 TV
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
-
 #EXTINF: -1  , BOLIVIA TV 
-
 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Bolivia_TV_2019_3.png/revision/latest/scale-to-width-down/250?cb=20201219023035&path-prefix=es", BOLIVIA TV 
 https://5f2c1b0d880e5.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w785660703.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMiA2OjA2OjU4IFBNJmhhc2hfdmFsdWU9ZGloaVU5SmdIV1FmSHZFQjAvTGl4QT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
-
 #EXTINF: -1  , TV UNIVERSITARIA 
-
 tvg-logo="https://tvu.umsa.bo/documents/780216/0/fondotvu.jpg/e8474744-91a7-4bb8-de6c-b169a89ef78a?t=1630525054611",TV UNIVERSITARIA 
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
-
 #EXTINF: -1  , TV UNIVERSITARIA SUCRE
-
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiM0IMSnaCv8M5pzChq44TInPDrF6-Ul2Djg&usqp=CAU", TELEVISION UNIVERSITARIA SUCRE
 https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w288449543_b2128000.m3u8
-
 #EXTINF: -1  , MEGA TV
-
 tvg-logo="https://www.coolstreaming.us/img/ch/ima19723624875.jpg",MEGA T
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1820173922.m3u8
-
 #EXTINF: -1  , ERBOL BOLIVIA 
-
 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png", ERBOL BOLIVIA
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w749940929.m3u8
-
 #EXTINF: -1  , ATESUR SUCRE
-
 tvg-logo="https://i0.wp.com/atesurplus.com/wp-content/uploads/2021/07/Comp-2_0000inicio.png?fit=1768%2C568&ssl=1", ATESUR SUCRE 
 https://video1.getstreamhosting.com:1936/8026/8026/chunklist_w790970310.m3u8
-
 #EXTINF: -1  , TU TV CHAPACA
-
 tvg-logo="https://tutvchapaca.com/wp-content/uploads/2022/01/banner3.jpg", TU TV CHAPACA 
 https://stmv.panel.grupolimalive.com:443/tarija/tarija/chunklist_w1193941661.m3u8
-
 #EXTINF: -1  , ITV SUCRE 
-
 tvg-logo="https://deredes.tv/wp-content/uploads/2022/09/Estoy-en-vivo-en-una-entrevista-en-ITV-Digital-Sucre.jpg", ITV SUCRE
 https://solo.disfrutaenlared.com:1936/itvdigital/itvdigital/chunklist_w947249050.m3u8
-
 #EXTINF: -1  , SEO TV
-
 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF2TfZm8rLsX6Pu5G_FmJ4SAcbNQ1aAugO9w&usqp=CAU", SEO TV
 https://seo.tv.bo/tv/SEOX.m3u8
-
 #EXTINF: -1  , MARVISION
-
 tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png", MARVISION 
 https://stmv.panel.grupolimalive.com:443/marvision/marvision/chunklist_w865106232.m3u8
 
