@@ -12,6 +12,7 @@ https://dai.ly/x7vsezg
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTSK99kzHsu1N1sjaZTvay6SlsfdMFGsGmSgTRxNhxtj)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
 https://dai.ly/x7wzxiw
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8zumPgbIvuLFwIVuNCet4eOVT986aenTq94moQX_57n)/dm/3/x7wzxiw/s/live-3.m3u8#cell=lnyc
+
 #EXTINF: -1 ,UNITEL COCHABAMBA
 
 tvg-logo="https://s2.dmcdn.net/v/Sg52r1YQMYVFzqmIW/x720",COCHABAMBA 
@@ -74,7 +75,7 @@ https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF: -1  , BOLIVIA TV 
 
-tvg-logo="https://www.newslinereport.com/online/nota_tigo-llegan-a-un-millon-de-hogares-en-bolivia.jpg", BOLIVIA TV 
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Bolivia_TV_2019_3.png/revision/latest/scale-to-width-down/250?cb=20201219023035&path-prefix=es", BOLIVIA TV 
 https://5f2c1b0d880e5.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w785660703.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMiA2OjA2OjU4IFBNJmhhc2hfdmFsdWU9ZGloaVU5SmdIV1FmSHZFQjAvTGl4QT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
 
 #EXTINF: -1  , TV UNIVERSITARIA 
