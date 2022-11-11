@@ -78,6 +78,9 @@ https://seo.tv.bo/tv/SEOX.m3u8
 tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png", MARVISION 
 https://stmv.panel.grupolimalive.com:443/marvision/marvision/chunklist_w865106232.m3u8
 
+#EXTINF: -1  , NOMBRE
+tvg-logo="NOMBRE", NOMBRE 
+https://URL.M3U
 
 
 
