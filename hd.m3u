@@ -70,13 +70,37 @@ https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF: -1  ,F10 TV
 
-tvg-logo=”https://f10.tv.bo/images/vivo.png",F10 TV
+tvg-logo="https://f10.tv.bo/images/vivo.png",F10 TV
 https://video.live.com.bo:3253/live/f10hdlive.m3u8
 
 #EXTINF: -1  , BOLIVIA TV 
 
-tvg-logo=”https://www.newslinereport.com/online/nota_tigo-llegan-a-un-millon-de-hogares-en-bolivia.jpg", BOLIVIA TV 
+tvg-logo="https://www.newslinereport.com/online/nota_tigo-llegan-a-un-millon-de-hogares-en-bolivia.jpg", BOLIVIA TV 
 https://5f2c1b0d880e5.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w785660703.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMiA2OjA2OjU4IFBNJmhhc2hfdmFsdWU9ZGloaVU5SmdIV1FmSHZFQjAvTGl4QT09JnZhbGlkbWludXRlcz0xMCZpZD0%3D
+
+#EXTINF: -1  , TV UNIVERSITARIA 
+
+tvg-logo="https://tvu.umsa.bo/documents/780216/0/fondotvu.jpg/e8474744-91a7-4bb8-de6c-b169a89ef78a?t=1630525054611",TV UNIVERSITARIA 
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
+
+
+#EXTINF: -1  , TV UNIVERSITARIA SUCRE
+
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiM0IMSnaCv8M5pzChq44TInPDrF6-Ul2Djg&usqp=CAU", TELEVISION UNIVERSITARIA SUCRE
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w288449543_b2128000.m3u8
+
+#EXTINF: -1  , MEGA TV
+
+tvg-logo="https://www.coolstreaming.us/img/ch/ima19723624875.jpg",MEGA T
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w1820173922.m3u8
+
+#EXTINF: -1  , ERBOL BOLIVIA 
+
+tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png", ERBOL BOLIVIA
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w749940929.m3u8
+
+
+
 
 
 
